@@ -1,6 +1,8 @@
 # Algorand Bootcamp
 
-###
+###Home page preview (test)
+![image](https://user-images.githubusercontent.com/60985658/216667646-bffd0b44-23ed-4559-832b-7c70dbb890a5.png)
+
 
 ## Project Description
 The project is about building rock, paper, scissors game is a simple two-player game where each player chooses one of three options: rock, paper, or scissors. The game rules dictate that rock beats scissors, scissors beat paper, and paper beats rock.
